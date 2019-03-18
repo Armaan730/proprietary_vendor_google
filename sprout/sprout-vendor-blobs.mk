@@ -155,4 +155,6 @@ PRODUCT_COPY_FILES += \
     vendor/google/sprout/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/google/sprout/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
     vendor/google/sprout/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
+    vendor/google/sprout/proprietary/vendor/bin/hw/rild:system/vendor/bin/hw/rild \
+    vendor/google/sprout/proprietary/vendor/lib/libril.so:system/vendor/lib/libril.so
     vendor/google/sprout/proprietary/xbin/mnld:system/xbin/mnld
